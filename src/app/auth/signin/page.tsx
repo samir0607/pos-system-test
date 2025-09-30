@@ -80,11 +80,11 @@ export default function SignIn() {
           </div>
 
           {/* Demo credentials */}
-          {/* <div className="mb-6 p-4 backdrop-blur-sm bg-blue-500/20 rounded-xl border border-blue-400/30">
+          <div className="mb-6 p-4 backdrop-blur-sm bg-blue-500/20 rounded-xl border border-blue-400/30">
             <p className="text-blue-200 text-sm text-center mb-2 font-medium">Demo Credentials:</p>
-            <p className="text-blue-100 text-xs text-center">Email: admin</p>
-            <p className="text-blue-100 text-xs text-center">Password: admin</p>
-          </div> */}
+            <p className="text-blue-100 text-xs text-center">Email: test@gmail.com</p>
+            <p className="text-blue-100 text-xs text-center">Password: test</p>
+          </div>
 
           <div className="space-y-6">
             {/* Email field */}
